@@ -1,0 +1,5 @@
+PartitionKey,FileType,ObjectName,HighLevelObject,ObjectDb,FileName,LineNumber,LinesOfCode,HighestEWISeverity,ConversionStatus,EWIs,UDFsUsed,NameOfUDFFiles,CharConversionPercentage,LoCConversionPercentage,EWIsNumber,ObjectDB,CharacterCount
+a44d6444-0120-4998-b8c0-201bd871f7ff,SQL,DemoUsers,CREATE TABLE,Undefined DB name,CLI_T12/Source_Code.sql,2,9,,Fully Converted,,,,--,100%,0,,
+a44d6444-0120-4998-b8c0-201bd871f7ff,SQL,View_DemoUsers,CREATE / REPLACE VIEW,Undefined DB name,CLI_T12/Source_Code.sql,22,4,,Fully Converted,,,,--,100%,0,,
+a44d6444-0120-4998-b8c0-201bd871f7ff,SQL,InsertDemoUsers,CREATE / REPLACE PROCEDURE,Undefined DB name,CLI_T12/Source_Code.sql,28,10,,Fully Converted,,,,--,100%,0,,
+a44d6444-0120-4998-b8c0-201bd871f7ff,SQL,UpdateDemoUsers,CREATE / REPLACE PROCEDURE,Undefined DB name,CLI_T12/Source_Code.sql,43,12,,Fully Converted,,,,--,100%,0,,
